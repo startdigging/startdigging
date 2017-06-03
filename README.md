@@ -1,0 +1,2 @@
+# startdigging
+read.me
